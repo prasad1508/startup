@@ -14,7 +14,7 @@ git push
 
 How to get from Repo  
 
-git clone <url>              ex: git clone https://github.com/prasad1508/startup.git  
+git clone <url>          ex: git clone https://github.com/prasad1508/startup.git  
 
 
 --------------------------------------------------------------------------------------------------
