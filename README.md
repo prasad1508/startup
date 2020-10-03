@@ -10,7 +10,7 @@ git remote add origin <url>
 git push -u origin master      if u push branch ->   git push -u branch <branch name> 
 git push
 
---------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------
 
 How to get from Repo
 
